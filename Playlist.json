@@ -1,4 +1,336 @@
 [
-  {"name": "abc", "email": "abc@example.com"},
-  {"name": "xyz", "email": "xyz@example.com"}
+ {
+        "ytid": "PLDx6vxaCLeUSsuJ-LBTafG-8MCzonwq3J",
+        "title": "Chill ViBes",
+        "subtitle": "Just Updated",
+        "header_desc": "Good Mood Music",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/qPeSl-MMD7g/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYciA9KFQwDw==&rs=AOn4CLDis38asoI91hPEowaNU_3mPSGdXw",
+        "list": []
+    },
+ {
+        "ytid": "PL8q1rV0m6tZqK1g4P0k-Z91IiBILxP6aQ",
+        "title": "Pop Music",
+        "subtitle": "Just Updated",
+        "header_desc": "Top Pop Music",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/J6enOG547lk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC64-9HINIuz-Ue_iRf6K4rBJoKZQ",
+        "list": []
+    },
+ {
+        "ytid": "PL9bw4S5ePsEF-J_tIORZ6xE_OXkGuKjjY",
+        "title": "Party Songs",
+        "subtitle": "Just Updated",
+        "header_desc": "Top Party Songs",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/_cPHiwPqbqo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBVKoBqqk5NWA2BytiQrPbeHAWmcw",
+        "list": []
+    },
+{
+        "ytid": "PLO7-VO1D0_6M1xUjj8HxTxskouWx48SNw",
+        "title": "Romance Mood Songs",
+        "subtitle": "Just Updated",
+        "header_desc": "Top Love Song",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/vdY5SFZBgnk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMnnX8NWocp2-Y_DnW6URT-fRH3w",
+        "list": []
+    },
+ {
+        "ytid": "PLzKILxYC79RDspOFfHUselpBLOVEOJO_T",
+        "title": "Bollywood chill songs",
+        "subtitle": "Just Updated",
+        "header_desc": "Top chill songs",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/fSS_R91Nimw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBY_BPDaOmj7X-DrWZ4kNguhmmrTQ",
+        "list": []
+    },
+ {
+        "ytid": "PL9bw4S5ePsEEqCMJSiYZ-KTtEjzVy0YvK",
+        "title": "Bollywood Hindi Love",
+        "subtitle": "Just Updated",
+        "header_desc": "Top 100 Romantic Songs",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/Ps4aVpIESkc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB3KP_Kc_kqYVecO5KT9jzmBOLdQ",
+        "list": []
+    },
+ {
+        "ytid": "PLO7-VO1D0_6NmK47v6tpOcxurcxdW-hZa",
+        "title": "Latest Bollywood Songs - Hindi Songs 2023",
+        "subtitle": "Just Updated",
+        "header_desc": "A collection of the top best Bollywood songs",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/BddP6PYo2gs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjangglzOO9it-jrCoWMZWFQLmIw",
+        "list": []
+    },
+{ 
+"ytid": "PL64G6j8ePNureM8YCKy5nRFyzYf8I2noy",
+        "title": "Beautiful Romantic Songs - Best Love Ballads ",
+        "subtitle": "Just Updated",
+        "header_desc": "We recommend you to check other playlists or our favorite music charts",
+        "type": "playlist",
+        "image": "https://i.ytimg.com/vi/lp-EO5I60KA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBIAX6XQyyCYDToEHvEI30rrkrNnA",
+        "list": []
+},
+
+    {
+        "ytid": "PLgzTt0k8mXzEk586ze4BjvDXR7c-TUSnx",
+        "title": "Top 50 Global",
+        "subtitle": "Just Updated",
+        "header_desc": "Top 50 Global Song",
+        "type": "playlist",
+        "image": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_large.jpg",
+        "list": []
+    },
+    {
+        "ytid": "PLoumn5BIsUDd3IH7MVw2XiW9nQKzCFy4O",
+        "title": "Best Pop Music Playlist 2023 - Most Listened Pop Songs 2023 (Today's Top Pop Hits 2023)",
+        "subtitle": "Just Updated",
+        "header_desc": "We recommend you to check other playlists or our favorite music charts. If you enjoyed listening to this one, maybe you",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebbc14667db36e06ca21c2746fb",
+        "list": []
+    },
+    {
+        "ytid": "PLmQPPVKNGMHipaJbw0lHPuGPuKQDJkcdn",
+        "title": "Lofi Remixes",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ceeda3baf08689981f6a17a5",
+        "list": []
+    },
+    {
+        "ytid": "PLPZdY4vhqvRAKdgI75eWn5XM0gPqs3QMY",
+        "title": "M+ike Remixes",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://images.genius.com/593f78ac98312b1e6149cb9671a6bc47.500x500x1.jpg",
+        "list": []
+    },
+    {
+        "ytid": "PLHg022HMFzFDMNp9xBGy3sARnqxaPl3PG",
+        "title": "Car Music 2023",
+        "subtitle": "Just Updated",
+        "header_desc": "Car Music 2023 - Best Car Music Playlist 2023 - Car Music Mix (Songs for Car Driving)",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebbc82624b873d6a3392b0ab9cc",
+        "list": []
+    },
+    {
+        "ytid": "PLSR9lWowvoE3A9i4JVVHtQFjlJt0_LItG",
+        "title": "TikTok Songs 2023 - Tik Tok Music - Best TikTok Songs 2023",
+        "subtitle": "Just Updated",
+        "header_desc": "TikTok Songs 2023 - Tik Tok Music - Best TikTok Songs 2023 Every week, we update our playlist with the latest hits. The",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739da92b8aa7cbcd57a20fe10e",
+        "list": []
+    },
+    {
+        "ytid": "PLm5t4IueiREEegTqfYaVB3aD5-ClBd5Dg",
+        "title": "sped up songs",
+        "subtitle": "Just Updated",
+        "header_desc": "150%",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706f0000000328f3caa600067067bb348a0a",
+        "list": []
+    },
+    {
+        "ytid": "PLw9U13gRyHys_YyMKCWuG2gYQ1eG-vQv4",
+        "title": "Big on the internet",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706f000000030cff82b06291045fe23facaf",
+        "list": []
+    },
+    {
+        "ytid": "PLgzTt0k8mXzHcKebL8d0uYHfawiARhQja",
+        "title": "Best Sad and Emotional Songs - Spotify Playlist 2023",
+        "subtitle": "Just Updated",
+        "header_desc": "If you are in a sad mood or you just want to listen to some sad songs and emotional songs, this is the perfect playlist ",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebba7222f1f28cf4322f99585f1",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_lBNUteBRencHzKelu5iDHwLF6mYqjL-JU",
+        "title": "Pop Certified",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736ad4fa118d28a41fc649c8e8",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_kA_dvd-bpRQ98y6LwOjAnhQL5lyjNnZYA",
+        "title": "Best New Indie",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706f0000000293433469cd26278febee5a53",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_no33oh6TOe0vPTFGabR24wAu3NeiVvc-Q",
+        "title": "Electromix",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a66c1376051e1c5228df9733",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_n0oLcyKJhNW8BmrnMySAoVuLjRZfgozG0",
+        "title": "Energizing EDM",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebb10d786ec8874e176f92c49d8",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_lHUYsU7VTxndTCtf-ofbHDsvQWspcFBJ8",
+        "title": "Unstoppable Pop",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebb0885e7a2c6186017bbb392a0",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_n0TxkLvMf0yENdVCRD31Oes1XEBoJgpIU",
+        "title": "Electronic Motivation",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebb3ce718571dd7ac56a0c15f25",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_lrRVyinf4bGiN8dQ1jRWkVOMroYKAvnqE",
+        "title": "Confidence Boost",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273411e532bde4068f5f301b22f",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_mpcC2CwnVbb6kBi_d99_FZvgG2QSi5ylo",
+        "title": "Rock Adrenaline",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bd0a1a068fe3b8e953682375",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_mnNGm2TBGoE7ciVFLrzepoNMWyreMuNlw",
+        "title": "#ILoveAltPop",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706f000000030ba1097327ab27f8ed29761f",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_mnBFITP45AFCdVtu8b7JfLFLbUZR46ObU",
+        "title": "Essential EDM",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273727362a482b776115354a507",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_k-fiP0mCE_HlLqk-h15LlxGmjTCTn4_aA",
+        "title": "House Rap Hits",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734448c77918ba9ab6d63aadfb",
+        "list": []
+    },
+    {
+        "ytid": "RDCLAK5uy_nnZGCEPxzc5FASdbQVMufD25OfYBJlHqY",
+        "title": "Modern Classical",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c5c1aac2736bfb53fbbf943f",
+        "list": []
+    },
+    {
+        "ytid": "PL7zsB-C3aNu03RwSy2Bn3Ov3oaEReOlT5",
+        "title": "Best Remixes Of Popular SONGS 2022 and 2023",
+        "subtitle": "Just Updated",
+        "header_desc": "Best Remixes Of Popular SONGS 2022 and 2023 Those are some of best remixes of popular songs for 2022, we hope u like th",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000da84031a9d25e9a4c24c0a9474f8",
+        "list": []
+    },
+    {
+        "ytid": "PLWEEt0QgQFInR8b2_sKk86VAGhLs_Iczf",
+        "title": "OPM Top Hits: Original Pilipino Music 2023 (Pinoy Hits & Love Songs)",
+        "subtitle": "Just Updated",
+        "header_desc": "opm songs",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebb5c6e74a654ff510d06bd1734",
+        "list": []
+    },
+    {
+        "ytid": "PLiy0XOfUv4hGbDDI0gx6sFqsYdcQ6zMWx",
+        "title": "OPM 2000-2009 / Best Pinoy Songs Playlist 2000s Hits",
+        "subtitle": "Just Updated",
+        "header_desc": "Pinoy Rock Songs,Tagalog Hit Songs 2000, 2001, 2002,Filipino Songs Playlist 2003, 2004, 2005,OPM Songs 2006",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebbc1aa43ecf170c86146b88e9a",
+        "list": []
+    },
+    {
+        "ytid": "PLfQAe5M2BkwCKimscRq-F9wkO5tUPY9TS",
+        "title": "Mood Booster",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706f00000003bd0e19e810bb4b55ab164a95",
+        "list": []
+    },
+    {
+        "ytid": "PLmYULo-LwF9Lsx-JRO0UN-dJWk_0pbd-L",
+        "title": "Best of MrSuicideSheep",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebb5844370cd89c9055a53a9d1a",
+        "list": []
+    },
+    {
+        "ytid": "PLC1og_v3eb4hrv4wsqG1G5dsNZh9bIscJ",
+        "title": "Trap Nation",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706c0000bebbf7911965253c20f3210e3068",
+        "list": []
+    },
+    {
+        "ytid": "PL3-LxnWEF8P07gIEArC9pZn5Qnw1j7-8C",
+        "title": "Songs to Sing in the Car",
+        "subtitle": "Just Updated",
+        "header_desc": "",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706f00000003ffa215be1a4c64e3cbf59d1e",
+        "list": []
+    },
+    {
+        "ytid": "PLZmONlbUZQSlqdckShGOb-YK4Ti1F-ck-",
+        "title": "Disney Hits",
+        "subtitle": "Just Updated",
+        "header_desc": "Disney Hits - Best Disney Songs Playlist (Top Disney Hits Mix 2023-2024)",
+        "type": "playlist",
+        "image": "https://i.scdn.co/image/ab67706f00000002a776ee8792ff69dfe9ff87c6",
+        "list": []
+    }
 ]
